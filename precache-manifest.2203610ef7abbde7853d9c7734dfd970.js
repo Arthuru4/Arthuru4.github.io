@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6203542f20d3902c10ac9e0dce79dec",
+    "revision": "d005e4b62c00bedb4f74ba8273948f89",
     "url": "./index.html"
   },
   {
-    "revision": "a76b302f305fab2e0d0b",
+    "revision": "23b7c9c8418a0f5a53ce",
     "url": "./static/css/2.43c90242.chunk.css"
   },
   {
-    "revision": "9c62ede42efd0962d6c4",
-    "url": "./static/css/main.22dc85c5.chunk.css"
+    "revision": "956aca1f2c57ca5eb853",
+    "url": "./static/css/main.22718169.chunk.css"
   },
   {
-    "revision": "a76b302f305fab2e0d0b",
-    "url": "./static/js/2.814ce12e.chunk.js"
+    "revision": "23b7c9c8418a0f5a53ce",
+    "url": "./static/js/2.2229a989.chunk.js"
   },
   {
-    "revision": "7a29fd67914f99c562dc3f65bbf1078b",
-    "url": "./static/js/2.814ce12e.chunk.js.LICENSE.txt"
+    "revision": "05fae4fabfa9d8559cde108ed14eb438",
+    "url": "./static/js/2.2229a989.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c62ede42efd0962d6c4",
-    "url": "./static/js/main.3593b846.chunk.js"
+    "revision": "956aca1f2c57ca5eb853",
+    "url": "./static/js/main.f86c33c0.chunk.js"
   },
   {
     "revision": "d317676e6858f947d900",
@@ -36,12 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/content.e7560b7e.jpg"
   },
   {
-    "revision": "c6dec0c9cb7e6f0d3ad5faf39ea0b80a",
-    "url": "./static/media/insta.c6dec0c9.png"
-  },
-  {
-    "revision": "8ac5b03056916d932d7298afb5a1fe6e",
-    "url": "./static/media/messanger.8ac5b030.png"
+    "revision": "5cb68a070566ff9e7b93ae034b5b4378",
+    "url": "./static/media/instabw.5cb68a07.png"
   },
   {
     "revision": "0f5bb32652adf8d6b55d9affc2160ba7",
@@ -60,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/revicons.2feb69cc.eot"
   },
   {
-    "revision": "c1acdbeb7832fef5b37b41ccb8313c5e",
-    "url": "./static/media/viber.c1acdbeb.png"
+    "revision": "334fdc1841f8e19dcc505d573ad997d7",
+    "url": "./static/media/viberbw.334fdc18.png"
   }
 ]);

@@ -1,32 +1,31 @@
 {
   "files": {
-    "main.css": "./static/css/main.22dc85c5.chunk.css",
-    "main.js": "./static/js/main.3593b846.chunk.js",
-    "main.js.map": "./static/js/main.3593b846.chunk.js.map",
+    "main.css": "./static/css/main.22718169.chunk.css",
+    "main.js": "./static/js/main.f86c33c0.chunk.js",
+    "main.js.map": "./static/js/main.f86c33c0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5fc7be9b.js",
     "runtime-main.js.map": "./static/js/runtime-main.5fc7be9b.js.map",
     "static/css/2.43c90242.chunk.css": "./static/css/2.43c90242.chunk.css",
-    "static/js/2.814ce12e.chunk.js": "./static/js/2.814ce12e.chunk.js",
-    "static/js/2.814ce12e.chunk.js.map": "./static/js/2.814ce12e.chunk.js.map",
+    "static/js/2.2229a989.chunk.js": "./static/js/2.2229a989.chunk.js",
+    "static/js/2.2229a989.chunk.js.map": "./static/js/2.2229a989.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.a4b18ae7de0bb3bbed2c3bbd19532b92.js": "./precache-manifest.a4b18ae7de0bb3bbed2c3bbd19532b92.js",
+    "precache-manifest.2203610ef7abbde7853d9c7734dfd970.js": "./precache-manifest.2203610ef7abbde7853d9c7734dfd970.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.43c90242.chunk.css.map": "./static/css/2.43c90242.chunk.css.map",
-    "static/css/main.22dc85c5.chunk.css.map": "./static/css/main.22dc85c5.chunk.css.map",
-    "static/js/2.814ce12e.chunk.js.LICENSE.txt": "./static/js/2.814ce12e.chunk.js.LICENSE.txt",
+    "static/css/main.22718169.chunk.css.map": "./static/css/main.22718169.chunk.css.map",
+    "static/js/2.2229a989.chunk.js.LICENSE.txt": "./static/js/2.2229a989.chunk.js.LICENSE.txt",
     "static/media/bag1.png": "./static/media/bag1.3a5cf862.png",
     "static/media/content.jpg": "./static/media/content.e7560b7e.jpg",
-    "static/media/insta.png": "./static/media/insta.c6dec0c9.png",
-    "static/media/messanger.png": "./static/media/messanger.8ac5b030.png",
+    "static/media/instabw.png": "./static/media/instabw.5cb68a07.png",
     "static/media/rev-bg.jpg": "./static/media/rev-bg.0f5bb326.jpg",
     "static/media/styles.css": "./static/media/revicons.2feb69cc.eot",
-    "static/media/viber.png": "./static/media/viber.c1acdbeb.png"
+    "static/media/viberbw.png": "./static/media/viberbw.334fdc18.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5fc7be9b.js",
     "static/css/2.43c90242.chunk.css",
-    "static/js/2.814ce12e.chunk.js",
-    "static/css/main.22dc85c5.chunk.css",
-    "static/js/main.3593b846.chunk.js"
+    "static/js/2.2229a989.chunk.js",
+    "static/css/main.22718169.chunk.css",
+    "static/js/main.f86c33c0.chunk.js"
   ]
 }
